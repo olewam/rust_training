@@ -1,0 +1,1 @@
+docker run -it -v /home/olewam/training/rust:/usr/src/app:rw -p 8080:80 rust
