@@ -7,6 +7,10 @@ Create a project
 
     cargo new
 
+Build a project
+
+    cargo build
+
 Build and run a project
 
     cargo run
@@ -19,3 +23,6 @@ Build for release (compiling with optimizations)
 
     cargo build --release
 
+Build documentation providedby all you dependencies locally and open in browser
+
+    cargo doc --open

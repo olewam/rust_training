@@ -1,1 +1,5 @@
 projects/hello_cargo/target/*
+projects/guessing_game/target/*
+projects/variables/target/*
+projects/structs/target/*
+projects/rectangles/target/*
